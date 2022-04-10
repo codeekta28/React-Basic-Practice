@@ -1,0 +1,7 @@
+.useReducerForm{
+    border: 2px solid red;
+}
+.inValid{
+    background-color: pink;
+    border:2px solid red
+}
